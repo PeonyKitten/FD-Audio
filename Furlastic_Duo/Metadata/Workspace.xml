@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{638be33b-bd50-4145-8d9b-6f76c489e52d}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../../../GitHub/FurlasticDuo/Assets/Game/Audio</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{75d978f8-fae8-402e-9e5e-4319fa842a18}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{1d755f03-efe9-4323-87e5-6561bb430dc7}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{f26ffc69-a198-430c-9eda-f15fd839ca56}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{a5155359-9f53-498c-b235-dad9d8ca524f}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{a3d17f7b-d2d9-4f07-950b-84c0a96431f2}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{ed3a03aa-fa83-4037-908b-0cdc096c3db1}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{34a267b4-f809-431d-9f5a-8e12e9291350}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{2cd77692-f029-47ea-998b-e969e92d94fa}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{245dc872-c81b-45e0-a3a7-ac939264387c}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{f945f9ca-bd21-4151-9f39-94ffb1176e1e}</destination>
+		</relationship>
+	</object>
+</objects>
