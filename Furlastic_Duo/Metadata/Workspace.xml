@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Workspace" id="{638be33b-bd50-4145-8d9b-6f76c489e52d}">
 		<property name="builtBanksOutputDirectory">
-			<value>../../../../GitHub/FurlasticDuo/Assets/Game/Audio</value>
+			<value>../../FurlasticDuo/Assets/Game/Audio</value>
 		</property>
 		<relationship name="masterEventFolder">
 			<destination>{75d978f8-fae8-402e-9e5e-4319fa842a18}</destination>

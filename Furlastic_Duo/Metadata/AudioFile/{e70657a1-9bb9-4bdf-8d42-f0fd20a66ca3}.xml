@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e70657a1-9bb9-4bdf-8d42-f0fd20a66ca3}">
+		<property name="assetPath">
+			<value>furlastic snap sfx.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.5294166666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{34a267b4-f809-431d-9f5a-8e12e9291350}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c4e85aec-f442-4b82-88d3-76a6d0b369b1}">
+		<property name="assetPath">
+			<value>240727_FD_Lab_hiDrums.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>16.134458333333335</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{34a267b4-f809-431d-9f5a-8e12e9291350}</destination>
+		</relationship>
+	</object>
+</objects>

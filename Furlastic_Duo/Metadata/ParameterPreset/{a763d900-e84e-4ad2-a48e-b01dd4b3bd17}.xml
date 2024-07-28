@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{a763d900-e84e-4ad2-a48e-b01dd4b3bd17}">
+		<property name="name">
+			<value>Stepped_Out_Of_Hamster_Wheel_Furnace</value>
+		</property>
+		<relationship name="folder">
+			<destination>{a5155359-9f53-498c-b235-dad9d8ca524f}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{9f37746b-c3d1-447c-b65a-d9a08cb852b5}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{9f37746b-c3d1-447c-b65a-d9a08cb852b5}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>still_in</value>
+			<value>stepped_out</value>
+		</property>
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>
