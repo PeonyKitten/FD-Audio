@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{61d2ea3c-aca2-4e4c-972b-f9a33a11cf07}">
+		<property name="assetPath">
+			<value>CHASE_Perc.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>10.666666666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{34a267b4-f809-431d-9f5a-8e12e9291350}</destination>
+		</relationship>
+	</object>
+</objects>

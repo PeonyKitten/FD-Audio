@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{7a56d931-c72b-4da3-a398-3546ae5d17e8}">
+		<property name="assetPath">
+			<value>CELEB_Saxes.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>8.0672291666666673</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{34a267b4-f809-431d-9f5a-8e12e9291350}</destination>
+		</relationship>
+	</object>
+</objects>

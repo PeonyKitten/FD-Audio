@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{641f6220-0089-469f-9641-90edd9450e18}">
+		<property name="assetPath">
+			<value>CHASE_ArpBass.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>10.666666666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{34a267b4-f809-431d-9f5a-8e12e9291350}</destination>
+		</relationship>
+	</object>
+</objects>
