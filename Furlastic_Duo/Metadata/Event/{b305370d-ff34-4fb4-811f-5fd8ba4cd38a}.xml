@@ -216,6 +216,7 @@
 			<destination>{df43711d-333c-44e6-9504-10d7b9ed6a94}</destination>
 			<destination>{10db4ab6-c45d-4101-b1b5-360bfd7f0369}</destination>
 			<destination>{dec474f2-9b66-47e1-be58-97eee099b06b}</destination>
+			<destination>{2dfb62a0-da8a-4323-96e2-6e71b4cc5b2e}</destination>
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{f8b0182d-2af6-46d8-baa2-1c9c54e2661e}</destination>
@@ -476,6 +477,7 @@
 			<destination>{1c01b16c-2e9b-4403-929c-71af1c78fd4b}</destination>
 			<destination>{e768133f-2b9d-4982-becf-9db6ec67f021}</destination>
 			<destination>{1153f3db-5517-49d9-acc7-7ba77803a205}</destination>
+			<destination>{2dfb62a0-da8a-4323-96e2-6e71b4cc5b2e}</destination>
 		</relationship>
 		<relationship name="markers">
 			<destination>{bfa7aa68-2d7a-40ed-8fda-6f6ee2592cf8}</destination>
@@ -1259,7 +1261,7 @@
 			<value>199.66604404596825</value>
 		</property>
 		<property name="length">
-			<value>32.268916666666691</value>
+			<value>20.165888727140981</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{2f0de2f4-25bb-44f6-bf4b-33cccfdf389e}</destination>
@@ -1277,6 +1279,20 @@
 		<property name="length">
 			<value>0</value>
 		</property>
+	</object>
+	<object class="SingleSound" id="{2dfb62a0-da8a-4323-96e2-6e71b4cc5b2e}">
+		<property name="start">
+			<value>225.88235294117646</value>
+		</property>
+		<property name="length">
+			<value>6.0526077714584758</value>
+		</property>
+		<property name="timelockedOffset">
+			<value>26.216308895208215</value>
+		</property>
+		<relationship name="audioFile">
+			<destination>{2f0de2f4-25bb-44f6-bf4b-33cccfdf389e}</destination>
+		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{f8b0182d-2af6-46d8-baa2-1c9c54e2661e}">
 		<property name="name">
@@ -1812,6 +1828,9 @@
 		</property>
 	</object>
 	<object class="EventMixerGroup" id="{b0736bc2-4eb4-485a-9955-93dfcf0dd3fb}">
+		<property name="volume">
+			<value>-2</value>
+		</property>
 		<property name="name">
 			<value>CHASE_Saxes</value>
 		</property>
@@ -1878,6 +1897,9 @@
 		</property>
 	</object>
 	<object class="EventMixerGroup" id="{815498db-fe0e-4f6b-9cea-1fe5ab86e41c}">
+		<property name="volume">
+			<value>1.5</value>
+		</property>
 		<property name="name">
 			<value>CHASE_Pads</value>
 		</property>
@@ -1938,6 +1960,9 @@
 		</property>
 	</object>
 	<object class="EventMixerGroup" id="{452ae471-5fbc-4c15-bf2d-d81de8e2b76f}">
+		<property name="volume">
+			<value>1</value>
+		</property>
 		<property name="name">
 			<value>CHASE_ArpBass</value>
 		</property>
@@ -2050,6 +2075,9 @@
 		</property>
 	</object>
 	<object class="EventMixerGroup" id="{a0e46ed9-3d66-4f9c-8267-854937896b26}">
+		<property name="volume">
+			<value>1.5</value>
+		</property>
 		<property name="name">
 			<value>CHASE_Perc</value>
 		</property>
@@ -2429,7 +2457,7 @@
 	</object>
 	<object class="NamedMarker" id="{8b308a9d-9d31-4088-9292-d7db49747775}">
 		<property name="position">
-			<value>225.88235294117646</value>
+			<value>229.41176470588235</value>
 		</property>
 		<property name="name">
 			<value>CHASE</value>
@@ -2480,7 +2508,7 @@
 			<value>32.281270833333338</value>
 		</property>
 		<property name="quantizationInterval">
-			<value>8</value>
+			<value>2</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{9a868579-b3b5-4c8e-a386-2bcc224d9ddf}</destination>
