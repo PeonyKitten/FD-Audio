@@ -5,7 +5,7 @@
 			<value>Bark</value>
 		</property>
 		<property name="outputFormat">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{75d978f8-fae8-402e-9e5e-4319fa842a18}</destination>
@@ -96,7 +96,6 @@
 	<object class="MixerBusEffectChain" id="{eddcd3e7-0bea-40fe-b4b9-f696932aaeb9}">
 		<relationship name="effects">
 			<destination>{e582bdec-95e6-4a7c-8480-f0a6dddf2c33}</destination>
-			<destination>{883567bc-833c-485e-b591-22c4037d89a2}</destination>
 			<destination>{af9cd0a6-233a-4885-98d5-8577a59bba2a}</destination>
 		</relationship>
 	</object>
@@ -114,7 +113,6 @@
 	</object>
 	<object class="MixerBusFader" id="{628b7c10-3b5c-428d-8e70-aa596005e8b7}" />
 	<object class="MixerBusFader" id="{e582bdec-95e6-4a7c-8480-f0a6dddf2c33}" />
-	<object class="SpatialiserEffect" id="{883567bc-833c-485e-b591-22c4037d89a2}" />
 	<object class="SFXReverbEffect" id="{af9cd0a6-233a-4885-98d5-8577a59bba2a}">
 		<property name="decayTime">
 			<value>1000</value>

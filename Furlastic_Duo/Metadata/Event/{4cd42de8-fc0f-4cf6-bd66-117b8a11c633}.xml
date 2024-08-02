@@ -174,7 +174,7 @@
 	</object>
 	<object class="LowpassSimpleEffect" id="{a895d3b1-1a3a-4303-83aa-b95064ac2989}">
 		<property name="cutoff">
-			<value>6000</value>
+			<value>3100</value>
 		</property>
 	</object>
 	<object class="MixerBusFader" id="{d08d9a07-b569-4dbc-b190-387a9cc05cbd}" />
