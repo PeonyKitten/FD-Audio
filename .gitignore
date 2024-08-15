@@ -1,3 +1,5 @@
 
 *.pdc
-/Furlastic_Duo/.cache/
+/Furlastic_Duo/.cache
+/Furlastic_Duo/.unsaved
+/Furlastic_Duo/.user
