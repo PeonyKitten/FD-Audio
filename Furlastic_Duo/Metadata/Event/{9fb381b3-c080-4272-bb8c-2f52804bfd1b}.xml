@@ -103,9 +103,9 @@
 	<object class="MixerBusPanner" id="{d6b07635-7da5-4f54-87ef-abca9434cf32}" />
 	<object class="MultiSound" id="{5f03999e-fc09-48ee-bf58-1ed09bcf3f39}">
 		<relationship name="sounds">
-			<destination>{1bd5d65e-8b28-4ec5-bfd0-05bc68678e75}</destination>
-			<destination>{fa867fb5-3970-4068-99e0-2fb5684749b3}</destination>
-			<destination>{82d0f362-254f-4dca-9d3f-a2de739daea7}</destination>
+			<destination>{9258b54f-4fd2-4112-a72d-e59d95850558}</destination>
+			<destination>{3a5e1b99-0284-4e74-b24c-b3248a731427}</destination>
+			<destination>{f1990bbf-1506-4bc0-bf9e-63ab573e0dec}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{741395d2-4692-4f64-a442-172cc213c0e5}" />
@@ -119,19 +119,28 @@
 			<value>-16</value>
 		</property>
 	</object>
-	<object class="SingleSound" id="{1bd5d65e-8b28-4ec5-bfd0-05bc68678e75}">
+	<object class="SingleSound" id="{9258b54f-4fd2-4112-a72d-e59d95850558}">
+		<property name="volume">
+			<value>2</value>
+		</property>
 		<relationship name="audioFile">
-			<destination>{a0810b75-9a0c-43e0-9072-b738d061a6a0}</destination>
+			<destination>{ed0d0a25-103f-4690-ac34-0c93b719bdc5}</destination>
 		</relationship>
 	</object>
-	<object class="SingleSound" id="{fa867fb5-3970-4068-99e0-2fb5684749b3}">
+	<object class="SingleSound" id="{3a5e1b99-0284-4e74-b24c-b3248a731427}">
+		<property name="volume">
+			<value>-6</value>
+		</property>
 		<relationship name="audioFile">
-			<destination>{21696f6e-76d0-4a39-8ad5-7a463e574ccf}</destination>
+			<destination>{6c8ef984-127a-4709-9fab-724293afd170}</destination>
 		</relationship>
 	</object>
-	<object class="SingleSound" id="{82d0f362-254f-4dca-9d3f-a2de739daea7}">
+	<object class="SingleSound" id="{f1990bbf-1506-4bc0-bf9e-63ab573e0dec}">
+		<property name="volume">
+			<value>-6.5</value>
+		</property>
 		<relationship name="audioFile">
-			<destination>{f3e2a68a-20e5-4c83-9195-e67ed9a40049}</destination>
+			<destination>{dd41c16c-58e7-4f3d-afc8-ab29af773f30}</destination>
 		</relationship>
 	</object>
 </objects>
